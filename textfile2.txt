@@ -2,4 +2,8 @@ avrjnwng
 wjnfwnjef
 wjfoje
 voqerr
+<<<<<<< HEAD
 this is line 3
+=======
+thiss is line 2
+>>>>>>> 491c8bb70773f11eee4a135faa6e95f3ffcc12f4
